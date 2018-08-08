@@ -20,7 +20,7 @@ def last_student_by_index
 end
 
 def first_student_by_method
-  puts STUDENT_NAMES
+  puts STUDENT_NAMES[]
 
 def last_student_by_method
   # Write a solution that returns the last student using the built in .last method
