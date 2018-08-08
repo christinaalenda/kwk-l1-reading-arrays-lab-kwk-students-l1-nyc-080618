@@ -20,7 +20,7 @@ def last_student_by_index
 end
 
 def first_student_by_method
-  returns STUDENT_NAMES[String]
+  returns STUDENT_NAMES[string]
 
 def last_student_by_method
   returns STUDENT_NAMES[5]
