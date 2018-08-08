@@ -20,8 +20,7 @@ def last_student_by_index
 end
 
 def first_student_by_method
-  # Write a solution that returns the first student using the built in .first method
-end
+  STUDENT_NAMES.first
 
 def last_student_by_method
   # Write a solution that returns the last student using the built in .last method
