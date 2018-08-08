@@ -8,7 +8,7 @@ STUDENT_NAMES = [
 ]
 
 def first_student_by_index
-  student_names.first
+  STUDENT_NAMES[0]
 end
 
 def fourth_student_by_index
